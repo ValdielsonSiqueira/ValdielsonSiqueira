@@ -7,8 +7,8 @@
 Eu sou Siqueira 🎃 - Tech Lead - Desenvolvedor Frontend 👨‍💻
 
 - 🔭 Atualmente estou trabalhando em aplicações SPA's
-- 🌱 I’m currently learning JavaScript, SSR, SSG
-- 💬 Pergunte-me sobre: tech, memes, anime
+- 🌱 Atualmente estou aprenndendo: JavaScript, SSR, SSG
+- 💬 Pergunte-me sobre: tech, frontend, música, memes, anime
 -  ⚡ Linguagens: Javascript
 - 🎓 Frameworks: VueJS, NuxtJS, ReactJS, NextJS, Typescript
 
