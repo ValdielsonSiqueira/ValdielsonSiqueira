@@ -4,7 +4,7 @@
 
 
 ## Olá 👋, 
-Eu sou Siqueira 🎃 - Tech Lead - Desenvolvedor Frontend 👨‍💻
+Eu sou Siqueira 🎃 - Desenvolvedor Frontend 👨‍💻
 
 - 🔭 Atualmente estou trabalhando em aplicações SPA's
 - 🌱 Atualmente estou aprenndendo: JavaScript, SSR, SSG
