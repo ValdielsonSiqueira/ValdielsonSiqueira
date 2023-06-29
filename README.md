@@ -10,7 +10,7 @@ Eu sou Siqueira 🎃 - Desenvolvedor Frontend 👨‍💻
 - 🌱 Atualmente estou aprenndendo: JavaScript, SSR, SSG
 - 💬 Pergunte-me sobre: tech, frontend, música, memes, anime
 -  ⚡ Linguagens: Javascript
-- 🎓 Frameworks: VueJS, NuxtJS, ReactJS, NextJS, Typescript
+- 🎓 Frameworks: VueJS, NuxtJS, ReactJS, NextJS, Typescript, Angular2+
 
 
 
